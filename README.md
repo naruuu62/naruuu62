@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learn about programming since 2023<br>📚 I'm currently learning flutter and java<br>🎯 Goals: Make an application who useful in cyber security</p>
+<p align="left">✨ Learn about programming since 2023<br>📚 I'm currently learning flutter and java<br></p>
 
 ###
 
